@@ -1,2 +1,3 @@
 # test2
-Acting as a manager
+Susanna is acting as a manager.
+Tanja is acting as a developer.
